@@ -77,6 +77,6 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out at: [gullipallinagabhushan@gmail.com.com].
+For any queries, reach out at: [sasikanthbobbra21@gmail.com.com].
 
 Happy coding! 🚀
